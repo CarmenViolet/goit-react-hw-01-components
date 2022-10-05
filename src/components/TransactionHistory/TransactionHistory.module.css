@@ -1,0 +1,22 @@
+.transaction_history {
+    margin: 0 auto;
+    margin-top: 35px;
+    width: 300px;
+    border: 1px solid #696969;
+}
+
+.tablet {
+    background-color: #1E90FF;
+}
+
+tbody {
+    text-align: center;
+}
+
+tbody:nth-child(even) {
+    background-color: #B0C4DE;
+}
+
+td {
+    border: 1px solid #696969;
+}
